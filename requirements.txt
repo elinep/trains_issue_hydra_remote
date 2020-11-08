@@ -1,2 +1,2 @@
-trains==0.16.2
+git+https://github.com/allegroai/trains.git@6dd7b4e02ec9201e2857ee4bfaa389e4cff04248
 hydra-core==1.0.3
